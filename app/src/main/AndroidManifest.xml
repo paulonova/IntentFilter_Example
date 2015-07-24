@@ -22,6 +22,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
             android:name="br.exemplointentfilter.Tela1"
             android:label="@string/title_activity_tela1" >
@@ -30,6 +31,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+
         <activity
             android:name="br.exemplointentfilter.Tela2"
             android:label="@string/title_activity_tela2" >
@@ -39,6 +41,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

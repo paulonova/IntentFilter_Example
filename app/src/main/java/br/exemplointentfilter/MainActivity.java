@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
 	
 	public void openNavigator(View view){
 		
-		Uri uri = Uri.parse("http://www.thiengo.com.br");
+		Uri uri = Uri.parse("https://www.google.se/");
 		
 		Intent intent = new Intent(Intent.ACTION_VIEW, uri);
 		
